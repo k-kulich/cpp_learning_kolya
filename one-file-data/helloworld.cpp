@@ -1,4 +1,5 @@
 #include <iostream>  // подключение библиотек 
+#include <string>
 
 using namespace std;  // стандартное пространство имен
 
