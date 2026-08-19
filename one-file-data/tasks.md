@@ -19,5 +19,7 @@
 
 Задачи, для которых это может понадобится:
 
-- https://leetcode.com/problems/linked-list-cycle/description/
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/description/)
 
