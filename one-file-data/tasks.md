@@ -23,3 +23,19 @@
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/description/)
 
+
+## Авторские задачи
+
+Частичная специализация шаблона для указателей
+
+Цель: отработка частичной специализации классов.
+
+Задание:
+- Напишите шаблон класса IsPointer<T>, который содержит статическую константу value типа bool, равную true, если T является указателем, и false в противном случае.
+- Реализуйте это через частичную специализацию для T*.
+
+Дополнительно:
+- Создайте шаблонную переменную is_pointer_v = IsPointer<T>::value для удобства.
+
+Проверка:
+- Статически проверьте (через static_assert), что is_pointer_v<int> == false, а is_pointer_v<int*> == true.
