@@ -46,3 +46,9 @@
 
 Доделать класс на шаблонах из `one-file-data/ex2`. Все требования есть в файла `Array.h`.
 
+## ДЗ по merge sort (и не только, всякие sorting)
+
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
+
