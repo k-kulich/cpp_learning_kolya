@@ -48,9 +48,9 @@
 
 ## ДЗ по merge sort (и не только, всякие sorting)
 
-- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
-- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
+- `done` [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+- `done` [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- `done` [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
