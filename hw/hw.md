@@ -55,3 +55,7 @@
 - [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
+## Подготовка к школьным олимпиадам
+
+Доразбирать задачи со школьного этапа и решить все на Python/C++.
+
