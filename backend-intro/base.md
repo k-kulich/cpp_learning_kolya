@@ -25,3 +25,39 @@ API - Application Programing Interface - способ взаимодействи
 ## Самый первый простой бэк
 
 Просто мини-сайт с заметками
+
+
+---
+
+## Базы данных
+
+- Реляционные (SQL, табличные): PostgreSQL, MySQL, SQLite...
+- Нереляционные: MongoDB, Redis...
+
+Мы работаем на SQL (это язык запросов к базе данных по факту).
+
+Основные команды SQL:
+```sql
+-- Создать таблицу
+CREATE TABLE notes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    text TEXT NOT NULL,
+    done INTEGER DEFAULT 0
+);
+
+-- Вставить строку (заметку)
+INSERT INTO notes (text, done) VALUES ("текст заметки", 0);
+
+-- Выбрать все
+SELECT * FROM notes;
+
+-- Выбрать одну заметку по id
+SELECT * FROM notes WHERE id = 1;
+
+-- Обновить заметку
+UPDATE notes SET done = 1 WHERE id = 1;
+
+-- Удалить
+DELETE FROM notes WHERE id = 1;
+```
+
